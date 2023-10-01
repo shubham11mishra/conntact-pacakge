@@ -1,0 +1,17 @@
+{
+    "name": "shubham/contact",
+    "description": "laravel contact package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Shubham\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shubham",
+            "email": "shubham11mishra@gmail.com"
+        }
+    ],
+    "require": {}
+}
