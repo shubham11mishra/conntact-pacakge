@@ -1,6 +1,6 @@
 <?php
 
-namespace Shubham\Contact\Mail;
+namespace ShubhamMishra\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;

@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Shubham\Contact\Http\Controllers\ContactController;
+use ShubhamMishra\Contact\Http\Controllers\ContactController;
 
 //Route::get('contact/{$id}', [ContactController::class,'index']);
 //Route::get('/contact/{id}', function ($id){

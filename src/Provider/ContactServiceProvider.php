@@ -1,6 +1,6 @@
 <?php
 
-namespace Shubham\Contact\Provider;
+namespace ShubhamMishra\Contact\Provider;
 
 use Illuminate\Support\ServiceProvider;
 

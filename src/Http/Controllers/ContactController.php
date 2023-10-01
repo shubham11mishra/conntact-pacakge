@@ -1,6 +1,6 @@
 <?php
 
-namespace Shubham\Contact\Http\Controllers;
+namespace ShubhamMishra\Contact\Http\Controllers\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use App\Models\category;
